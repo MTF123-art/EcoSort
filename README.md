@@ -27,8 +27,9 @@ lib/
 		home/
 			presentation/pages/home_page.dart
 			presentation/widgets/...
-		info/
-			presentation/pages/info_page.dart
+		history/
+			presentation/pages/history_page.dart
+			presentation/controller/...
 		scan/
 			data/
 				gemini_client.dart        // Panggilan API Gemini + parsing respons
